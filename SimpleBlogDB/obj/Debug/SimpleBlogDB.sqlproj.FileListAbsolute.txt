@@ -1,0 +1,10 @@
+C:\Users\19139\source\repos\Bloggin\SimpleBlogDB\bin\Debug\SimpleBlogDB.dacpac
+C:\Users\19139\source\repos\Bloggin\SimpleBlogDB\bin\Debug\SimpleBlogDB.dll
+C:\Users\19139\source\repos\Bloggin\SimpleBlogDB\bin\Debug\SimpleBlogDB.pdb
+C:\Users\19139\source\repos\Bloggin\SimpleBlogDB\obj\Debug\SimpleBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\19139\source\repos\Bloggin\SimpleBlogDB\obj\Debug\SimpleBlogDB.dll
+C:\Users\19139\source\repos\Bloggin\SimpleBlogDB\obj\Debug\SimpleBlogDB.pdb
+C:\Users\19139\source\repos\Bloggin\SimpleBlogDB\obj\Debug\Model.xml
+C:\Users\19139\source\repos\Bloggin\SimpleBlogDB\obj\Debug\refactor.xml
+C:\Users\19139\source\repos\Bloggin\SimpleBlogDB\obj\Debug\postdeploy.sql
+C:\Users\19139\source\repos\Bloggin\SimpleBlogDB\obj\Debug\predeploy.sql
