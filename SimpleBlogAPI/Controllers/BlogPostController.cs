@@ -75,9 +75,21 @@ namespace SimpleBlogAPI.Controllers
             return NoContent();
         }
         [HttpDelete("{id}")]
-        public async Task<ActionResult<BlogPost>> GetBlogPost(int id)
+        public async Task<IActionResult> DeleteBlogPost(int id)
         {
+            BlogPost? blogPost = await _context.BlogPost.FindAsync(id);
+            if (blogPost == null)
+            {
+                return NotFound();
+            }
+            _context.BlogPost.Remove(blogPost);
+            await _context.SaveChangesAsync();
 
+            return NoContent();
+        }
+        private bool BlogPostExists(int id)
+        {
+            return _context.BlogPost.Any(e => e.Id == id);
         }
 
         /*// GET api/<BlogPostController>/5
