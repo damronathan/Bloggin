@@ -1,0 +1,13 @@
+C:\Users\19139\source\repos\Bloggin\SimpleBlogLibrary\bin\Debug\net8.0\SimpleBlogLibrary.deps.json
+C:\Users\19139\source\repos\Bloggin\SimpleBlogLibrary\bin\Debug\net8.0\SimpleBlogLibrary.dll
+C:\Users\19139\source\repos\Bloggin\SimpleBlogLibrary\bin\Debug\net8.0\SimpleBlogLibrary.pdb
+C:\Users\19139\source\repos\Bloggin\SimpleBlogLibrary\obj\Debug\net8.0\SimpleBlogLibrary.csproj.AssemblyReference.cache
+C:\Users\19139\source\repos\Bloggin\SimpleBlogLibrary\obj\Debug\net8.0\SimpleBlogLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19139\source\repos\Bloggin\SimpleBlogLibrary\obj\Debug\net8.0\SimpleBlogLibrary.AssemblyInfoInputs.cache
+C:\Users\19139\source\repos\Bloggin\SimpleBlogLibrary\obj\Debug\net8.0\SimpleBlogLibrary.AssemblyInfo.cs
+C:\Users\19139\source\repos\Bloggin\SimpleBlogLibrary\obj\Debug\net8.0\SimpleBlogLibrary.csproj.CoreCompileInputs.cache
+C:\Users\19139\source\repos\Bloggin\SimpleBlogLibrary\obj\Debug\net8.0\SimpleBlogLibrary.sourcelink.json
+C:\Users\19139\source\repos\Bloggin\SimpleBlogLibrary\obj\Debug\net8.0\SimpleBlogLibrary.dll
+C:\Users\19139\source\repos\Bloggin\SimpleBlogLibrary\obj\Debug\net8.0\refint\SimpleBlogLibrary.dll
+C:\Users\19139\source\repos\Bloggin\SimpleBlogLibrary\obj\Debug\net8.0\SimpleBlogLibrary.pdb
+C:\Users\19139\source\repos\Bloggin\SimpleBlogLibrary\obj\Debug\net8.0\ref\SimpleBlogLibrary.dll

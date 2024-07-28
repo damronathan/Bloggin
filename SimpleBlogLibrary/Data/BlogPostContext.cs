@@ -1,12 +1,13 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using SimpleBlogLibrary.Models;
 
-namespace SimpleBlogLibrary.Data
+namespace SimpleBlogLibrary.Data;
+
+
+public class BlogPostContext : DbContext
 {
-    internal class BlogPostContext
-    {
-    }
-}
+    public BlogPostContext(DbContextOptions<BlogPostContext> options) : base(options) { }
+
+    public DbSet<BlogPost> BlogPost { get; set; }
+} 
